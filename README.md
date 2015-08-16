@@ -25,5 +25,5 @@ destination file.
 without having to worry about instruction sizes. Use JSON for messages.
 
 ## How To Use
-Server Side: java -jar syncserver.jar -file filename
-Client Side: java -jar syncclient.jar -file filename -host hostname -direction pull -blocksize 2048
+- Server Side: java -jar syncserver.jar -file filename
+- Client Side: java -jar syncclient.jar -file filename -host hostname -direction pull -blocksize 2048
